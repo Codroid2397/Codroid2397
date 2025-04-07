@@ -52,7 +52,7 @@
 
 📫 **Let's Connect!**
 
-- 💼 [LinkedIn](www.linkedin.com/in/devashish-kumar-335b1422)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/devashish-kumar-335b1422/)
 - 📝 [Portfolio/Blog](https://yourportfolio.com)  
 - 📬 Email: your.email@example.com  
 
