@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm CodroidHub </h1>
 <h3 align="center">An ambitious B.Tech IT student with a passion for solving real-world problems through code.</h3>
 
 ---
